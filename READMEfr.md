@@ -1,2 +1,0 @@
-# Wordlist
-Wordlist 🌠
